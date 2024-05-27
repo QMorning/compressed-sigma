@@ -1,0 +1,486 @@
+-------------experiment 1-1 -------------
+round: 1---------------------------
+num_x: 1, num_y: 2, deg_x: 1, deg_y: 2
+Sumcheck on F Prover time: 0.8921124 ms
+Sumcheck on F Verifier time: 0.6936793000000001 ms
+Sumcheck on G Prover time: 10.4157959 ms
+Sumcheck on G Verifier time: 7.359337699999999 ms
+Sumcheck on F+G Prover time: 6.307908300000001 ms
+Sumcheck on F+G Verifier time: 8.053016999999999 ms
+round: 2---------------------------
+num_x: 2, num_y: 2, deg_x: 1, deg_y: 2
+Sumcheck on F Prover time: 2.0052708 ms
+Sumcheck on F Verifier time: 0.8060542000000002 ms
+Sumcheck on G Prover time: 9.792554 ms
+Sumcheck on G Verifier time: 7.0624874 ms
+Sumcheck on F+G Prover time: 6.7978248 ms
+Sumcheck on F+G Verifier time: 7.8685416 ms
+round: 3---------------------------
+num_x: 3, num_y: 2, deg_x: 1, deg_y: 2
+Sumcheck on F Prover time: 1.3609999 ms
+Sumcheck on F Verifier time: 0.9332957999999998 ms
+Sumcheck on G Prover time: 5.968983499999999 ms
+Sumcheck on G Verifier time: 7.1987247 ms
+Sumcheck on F+G Prover time: 7.3299834 ms
+Sumcheck on F+G Verifier time: 8.1320205 ms
+round: 4---------------------------
+num_x: 4, num_y: 2, deg_x: 1, deg_y: 2
+Sumcheck on F Prover time: 1.7201540999999998 ms
+Sumcheck on F Verifier time: 1.0121584000000001 ms
+Sumcheck on G Prover time: 5.920954099999999 ms
+Sumcheck on G Verifier time: 7.286137599999999 ms
+Sumcheck on F+G Prover time: 7.6411082 ms
+Sumcheck on F+G Verifier time: 8.298295999999999 ms
+round: 5---------------------------
+num_x: 5, num_y: 2, deg_x: 1, deg_y: 2
+Sumcheck on F Prover time: 2.2416916000000002 ms
+Sumcheck on F Verifier time: 1.2066792 ms
+Sumcheck on G Prover time: 6.105945799999999 ms
+Sumcheck on G Verifier time: 7.251329200000001 ms
+Sumcheck on F+G Prover time: 8.3476374 ms
+Sumcheck on F+G Verifier time: 8.4580084 ms
+round: 6---------------------------
+num_x: 6, num_y: 2, deg_x: 1, deg_y: 2
+Sumcheck on F Prover time: 2.6184085 ms
+Sumcheck on F Verifier time: 1.2810291 ms
+Sumcheck on G Prover time: 6.1836291 ms
+Sumcheck on G Verifier time: 7.206287400000001 ms
+Sumcheck on F+G Prover time: 8.8020376 ms
+Sumcheck on F+G Verifier time: 8.4873165 ms
+round: 7---------------------------
+num_x: 7, num_y: 2, deg_x: 1, deg_y: 2
+Sumcheck on F Prover time: 3.3343247 ms
+Sumcheck on F Verifier time: 1.3542292999999999 ms
+Sumcheck on G Prover time: 7.963412600000001 ms
+Sumcheck on G Verifier time: 7.3314626 ms
+Sumcheck on F+G Prover time: 11.297737300000001 ms
+Sumcheck on F+G Verifier time: 8.6856919 ms
+round: 8---------------------------
+num_x: 8, num_y: 2, deg_x: 1, deg_y: 2
+Sumcheck on F Prover time: 4.2730209 ms
+Sumcheck on F Verifier time: 1.3811874000000002 ms
+Sumcheck on G Prover time: 8.158762499999998 ms
+Sumcheck on G Verifier time: 7.092345900000001 ms
+Sumcheck on F+G Prover time: 12.431783399999997 ms
+Sumcheck on F+G Verifier time: 8.473533300000001 ms
+round: 9---------------------------
+num_x: 9, num_y: 2, deg_x: 1, deg_y: 2
+Sumcheck on F Prover time: 5.7918583 ms
+Sumcheck on F Verifier time: 1.5587041000000001 ms
+Sumcheck on G Prover time: 6.7868167 ms
+Sumcheck on G Verifier time: 7.1485123999999995 ms
+Sumcheck on F+G Prover time: 12.578675 ms
+Sumcheck on F+G Verifier time: 8.7072165 ms
+round: 10---------------------------
+num_x: 10, num_y: 2, deg_x: 1, deg_y: 2
+Sumcheck on F Prover time: 8.608108099999999 ms
+Sumcheck on F Verifier time: 1.7964665 ms
+Sumcheck on G Prover time: 12.5746833 ms
+Sumcheck on G Verifier time: 7.224912599999999 ms
+Sumcheck on F+G Prover time: 21.1827914 ms
+Sumcheck on F+G Verifier time: 9.021379099999999 ms
+-------------experiment 1-2 -------------
+round: 1---------------------------
+num_x: 1, num_y: 2, deg_x: 2, deg_y: 3
+Sumcheck on F Prover time: 1.2137875 ms
+Sumcheck on F Verifier time: 0.8221043 ms
+Sumcheck on G Prover time: 9.8573166 ms
+Sumcheck on G Verifier time: 9.208199800000001 ms
+Sumcheck on F+G Prover time: 9.071104100000001 ms
+Sumcheck on F+G Verifier time: 10.0303041 ms
+round: 2---------------------------
+num_x: 2, num_y: 2, deg_x: 2, deg_y: 3
+Sumcheck on F Prover time: 1.468404 ms
+Sumcheck on F Verifier time: 0.9601378 ms
+Sumcheck on G Prover time: 9.9361499 ms
+Sumcheck on G Verifier time: 8.929391599999999 ms
+Sumcheck on F+G Prover time: 10.4045539 ms
+Sumcheck on F+G Verifier time: 9.889529399999999 ms
+round: 3---------------------------
+num_x: 3, num_y: 2, deg_x: 2, deg_y: 3
+Sumcheck on F Prover time: 1.8389502999999998 ms
+Sumcheck on F Verifier time: 1.0609832000000001 ms
+Sumcheck on G Prover time: 11.6997167 ms
+Sumcheck on G Verifier time: 9.111925000000001 ms
+Sumcheck on F+G Prover time: 11.538667 ms
+Sumcheck on F+G Verifier time: 10.172908200000002 ms
+round: 4---------------------------
+num_x: 4, num_y: 2, deg_x: 2, deg_y: 3
+Sumcheck on F Prover time: 2.1568123000000003 ms
+Sumcheck on F Verifier time: 1.1984040999999999 ms
+Sumcheck on G Prover time: 8.1983291 ms
+Sumcheck on G Verifier time: 9.2020917 ms
+Sumcheck on F+G Prover time: 10.3551414 ms
+Sumcheck on F+G Verifier time: 10.4004958 ms
+round: 5---------------------------
+num_x: 5, num_y: 2, deg_x: 2, deg_y: 3
+Sumcheck on F Prover time: 2.6092249 ms
+Sumcheck on F Verifier time: 1.4153959000000003 ms
+Sumcheck on G Prover time: 8.298937400000003 ms
+Sumcheck on G Verifier time: 9.0694375 ms
+Sumcheck on F+G Prover time: 10.908162300000004 ms
+Sumcheck on F+G Verifier time: 10.4848334 ms
+round: 6---------------------------
+num_x: 6, num_y: 2, deg_x: 2, deg_y: 3
+Sumcheck on F Prover time: 3.1233543 ms
+Sumcheck on F Verifier time: 1.5177833 ms
+Sumcheck on G Prover time: 8.493516699999999 ms
+Sumcheck on G Verifier time: 9.1513833 ms
+Sumcheck on F+G Prover time: 11.616871 ms
+Sumcheck on F+G Verifier time: 10.6691666 ms
+round: 7---------------------------
+num_x: 7, num_y: 2, deg_x: 2, deg_y: 3
+Sumcheck on F Prover time: 4.109137500000001 ms
+Sumcheck on F Verifier time: 1.6914334 ms
+Sumcheck on G Prover time: 8.862699899999999 ms
+Sumcheck on G Verifier time: 9.1826833 ms
+Sumcheck on F+G Prover time: 12.9718374 ms
+Sumcheck on F+G Verifier time: 10.8741167 ms
+round: 8---------------------------
+num_x: 8, num_y: 2, deg_x: 2, deg_y: 3
+Sumcheck on F Prover time: 4.8924292 ms
+Sumcheck on F Verifier time: 1.9074123 ms
+Sumcheck on G Prover time: 8.8231376 ms
+Sumcheck on G Verifier time: 9.0870414 ms
+Sumcheck on F+G Prover time: 13.715566800000001 ms
+Sumcheck on F+G Verifier time: 10.994453700000001 ms
+round: 9---------------------------
+num_x: 9, num_y: 2, deg_x: 2, deg_y: 3
+Sumcheck on F Prover time: 6.8235083 ms
+Sumcheck on F Verifier time: 1.9579541999999996 ms
+Sumcheck on G Prover time: 9.335679299999999 ms
+Sumcheck on G Verifier time: 9.182729300000002 ms
+Sumcheck on F+G Prover time: 16.1591876 ms
+Sumcheck on F+G Verifier time: 11.140683500000002 ms
+round: 10---------------------------
+num_x: 10, num_y: 2, deg_x: 2, deg_y: 3
+Sumcheck on F Prover time: 9.7012126 ms
+Sumcheck on F Verifier time: 2.0648416 ms
+Sumcheck on G Prover time: 10.998178999999999 ms
+Sumcheck on G Verifier time: 9.0210249 ms
+Sumcheck on F+G Prover time: 20.6993916 ms
+Sumcheck on F+G Verifier time: 11.0858665 ms
+-------------experiment 1-3 -------------
+round: 1---------------------------
+num_x: 1, num_y: 2, deg_x: 4, deg_y: 5
+Sumcheck on F Prover time: 2.0797248 ms
+Sumcheck on F Verifier time: 1.1192042 ms
+Sumcheck on G Prover time: 13.069479199999998 ms
+Sumcheck on G Verifier time: 12.5140834 ms
+Sumcheck on F+G Prover time: 15.149203999999997 ms
+Sumcheck on F+G Verifier time: 13.633287600000001 ms
+round: 2---------------------------
+num_x: 2, num_y: 2, deg_x: 4, deg_y: 5
+Sumcheck on F Prover time: 2.4640169000000003 ms
+Sumcheck on F Verifier time: 1.3038498 ms
+Sumcheck on G Prover time: 13.1133959 ms
+Sumcheck on G Verifier time: 12.541370599999999 ms
+Sumcheck on F+G Prover time: 15.577412800000001 ms
+Sumcheck on F+G Verifier time: 13.845220399999999 ms
+round: 3---------------------------
+num_x: 3, num_y: 2, deg_x: 4, deg_y: 5
+Sumcheck on F Prover time: 2.6749957999999996 ms
+Sumcheck on F Verifier time: 1.4301209 ms
+Sumcheck on G Prover time: 13.511362600000002 ms
+Sumcheck on G Verifier time: 12.7859791 ms
+Sumcheck on F+G Prover time: 16.186358400000003 ms
+Sumcheck on F+G Verifier time: 14.2161 ms
+round: 4---------------------------
+num_x: 4, num_y: 2, deg_x: 4, deg_y: 5
+Sumcheck on F Prover time: 3.2331834 ms
+Sumcheck on F Verifier time: 1.5393374999999998 ms
+Sumcheck on G Prover time: 13.675949800000001 ms
+Sumcheck on G Verifier time: 12.548066700000001 ms
+Sumcheck on F+G Prover time: 16.909133200000003 ms
+Sumcheck on F+G Verifier time: 14.087404200000002 ms
+round: 5---------------------------
+num_x: 5, num_y: 2, deg_x: 4, deg_y: 5
+Sumcheck on F Prover time: 3.6296209999999993 ms
+Sumcheck on F Verifier time: 1.8510000999999998 ms
+Sumcheck on G Prover time: 13.431475 ms
+Sumcheck on G Verifier time: 12.6070126 ms
+Sumcheck on F+G Prover time: 17.061096 ms
+Sumcheck on F+G Verifier time: 14.4580127 ms
+round: 6---------------------------
+num_x: 6, num_y: 2, deg_x: 4, deg_y: 5
+Sumcheck on F Prover time: 4.3857792 ms
+Sumcheck on F Verifier time: 1.9561832000000003 ms
+Sumcheck on G Prover time: 13.535720799999998 ms
+Sumcheck on G Verifier time: 12.5306792 ms
+Sumcheck on F+G Prover time: 17.921499999999998 ms
+Sumcheck on F+G Verifier time: 14.4868624 ms
+round: 7---------------------------
+num_x: 7, num_y: 2, deg_x: 4, deg_y: 5
+Sumcheck on F Prover time: 5.2662040999999995 ms
+Sumcheck on F Verifier time: 2.0109623 ms
+Sumcheck on G Prover time: 18.353628999999998 ms
+Sumcheck on G Verifier time: 12.441304200000001 ms
+Sumcheck on F+G Prover time: 19.619833099999997 ms
+Sumcheck on F+G Verifier time: 14.4522665 ms
+round: 8---------------------------
+num_x: 8, num_y: 2, deg_x: 4, deg_y: 5
+Sumcheck on F Prover time: 6.6169208 ms
+Sumcheck on F Verifier time: 2.1326957999999996 ms
+Sumcheck on G Prover time: 14.0247083 ms
+Sumcheck on G Verifier time: 12.687583300000002 ms
+Sumcheck on F+G Prover time: 20.6416291 ms
+Sumcheck on F+G Verifier time: 14.8202791 ms
+round: 9---------------------------
+num_x: 9, num_y: 2, deg_x: 4, deg_y: 5
+Sumcheck on F Prover time: 8.6123585 ms
+Sumcheck on F Verifier time: 2.5426292000000004 ms
+Sumcheck on G Prover time: 14.0268043 ms
+Sumcheck on G Verifier time: 12.8188834 ms
+Sumcheck on F+G Prover time: 22.6391628 ms
+Sumcheck on F+G Verifier time: 15.361512600000001 ms
+round: 10---------------------------
+num_x: 10, num_y: 2, deg_x: 4, deg_y: 5
+Sumcheck on F Prover time: 12.6470834 ms
+Sumcheck on F Verifier time: 2.7168458 ms
+Sumcheck on G Prover time: 14.783933200000002 ms
+Sumcheck on G Verifier time: 13.002629500000001 ms
+Sumcheck on F+G Prover time: 27.4310166 ms
+Sumcheck on F+G Verifier time: 15.719475300000001 ms
+-------------experiment 2-1 -------------
+round: 1---------------------------
+num_x: 2, num_y: 1, deg_x: 1, deg_y: 2
+Sumcheck on F Prover time: 0.6694582 ms
+Sumcheck on F Verifier time: 0.6922165 ms
+Sumcheck on G Prover time: 0.7663331999999999 ms
+Sumcheck on G Verifier time: 6.555462400000001 ms
+Sumcheck on F+G Prover time: 1.4357913999999998 ms
+Sumcheck on F+G Verifier time: 7.2476789 ms
+round: 2---------------------------
+num_x: 2, num_y: 2, deg_x: 1, deg_y: 2
+Sumcheck on F Prover time: 1.138775 ms
+Sumcheck on F Verifier time: 0.8229542999999999 ms
+Sumcheck on G Prover time: 6.174716500000001 ms
+Sumcheck on G Verifier time: 7.296012499999999 ms
+Sumcheck on F+G Prover time: 7.3134915000000005 ms
+Sumcheck on F+G Verifier time: 8.118966799999999 ms
+round: 3---------------------------
+num_x: 2, num_y: 3, deg_x: 1, deg_y: 2
+Sumcheck on F Prover time: 1.9472791999999999 ms
+Sumcheck on F Verifier time: 0.9103916 ms
+Sumcheck on G Prover time: 14.7134625 ms
+Sumcheck on G Verifier time: 7.8244457999999995 ms
+Sumcheck on F+G Prover time: 16.6607417 ms
+Sumcheck on F+G Verifier time: 8.7348374 ms
+round: 4---------------------------
+num_x: 2, num_y: 4, deg_x: 1, deg_y: 2
+Sumcheck on F Prover time: 4.1095291000000005 ms
+Sumcheck on F Verifier time: 1.0519748999999998 ms
+Sumcheck on G Prover time: 17.913999999999998 ms
+Sumcheck on G Verifier time: 8.1455208 ms
+Sumcheck on F+G Prover time: 22.023529099999998 ms
+Sumcheck on F+G Verifier time: 9.1974957 ms
+round: 5---------------------------
+num_x: 2, num_y: 5, deg_x: 1, deg_y: 2
+Sumcheck on F Prover time: 9.0799166 ms
+Sumcheck on F Verifier time: 1.266179 ms
+Sumcheck on G Prover time: 24.9607292 ms
+Sumcheck on G Verifier time: 11.668004300000002 ms
+Sumcheck on F+G Prover time: 34.0406458 ms
+Sumcheck on F+G Verifier time: 12.9341833 ms
+round: 6---------------------------
+num_x: 2, num_y: 6, deg_x: 1, deg_y: 2
+Sumcheck on F Prover time: 21.943849800000002 ms
+Sumcheck on F Verifier time: 1.3514459 ms
+Sumcheck on G Prover time: 28.267033100000003 ms
+Sumcheck on G Verifier time: 12.027658299999999 ms
+Sumcheck on F+G Prover time: 50.2108829 ms
+Sumcheck on F+G Verifier time: 13.379104199999999 ms
+round: 7---------------------------
+num_x: 2, num_y: 7, deg_x: 1, deg_y: 2
+Sumcheck on F Prover time: 61.25534170000001 ms
+Sumcheck on F Verifier time: 1.4144291 ms
+Sumcheck on G Prover time: 33.6989875 ms
+Sumcheck on G Verifier time: 12.723054099999999 ms
+Sumcheck on F+G Prover time: 94.95432920000002 ms
+Sumcheck on F+G Verifier time: 14.137483199999998 ms
+round: 8---------------------------
+num_x: 2, num_y: 8, deg_x: 1, deg_y: 2
+Sumcheck on F Prover time: 182.42292079999999 ms
+Sumcheck on F Verifier time: 1.4839625 ms
+Sumcheck on G Prover time: 39.075012400000006 ms
+Sumcheck on G Verifier time: 13.347395799999997 ms
+Sumcheck on F+G Prover time: 221.49793319999998 ms
+Sumcheck on F+G Verifier time: 14.831358299999998 ms
+round: 9---------------------------
+num_x: 2, num_y: 9, deg_x: 1, deg_y: 2
+Sumcheck on F Prover time: 567.4247582 ms
+Sumcheck on F Verifier time: 1.7563333 ms
+Sumcheck on G Prover time: 43.8769625 ms
+Sumcheck on G Verifier time: 16.395275000000005 ms
+Sumcheck on F+G Prover time: 611.3017207 ms
+Sumcheck on F+G Verifier time: 18.151608300000007 ms
+round: 10---------------------------
+num_x: 2, num_y: 10, deg_x: 1, deg_y: 2
+Sumcheck on F Prover time: 1796.2474252 ms
+Sumcheck on F Verifier time: 1.8883044000000002 ms
+Sumcheck on G Prover time: 55.107271000000004 ms
+Sumcheck on G Verifier time: 17.4398749 ms
+Sumcheck on F+G Prover time: 1851.3546962 ms
+Sumcheck on F+G Verifier time: 19.3281793 ms
+-------------experiment 2-2 -------------
+round: 1---------------------------
+num_x: 2, num_y: 1, deg_x: 2, deg_y: 3
+Sumcheck on F Prover time: 1.0362002000000001 ms
+Sumcheck on F Verifier time: 0.8268709 ms
+Sumcheck on G Prover time: 1.4442668 ms
+Sumcheck on G Verifier time: 8.6927085 ms
+Sumcheck on F+G Prover time: 2.480467 ms
+Sumcheck on F+G Verifier time: 9.5195794 ms
+round: 2---------------------------
+num_x: 2, num_y: 2, deg_x: 2, deg_y: 3
+Sumcheck on F Prover time: 1.5340832 ms
+Sumcheck on F Verifier time: 0.9636333 ms
+Sumcheck on G Prover time: 10.2279918 ms
+Sumcheck on G Verifier time: 9.009620700000001 ms
+Sumcheck on F+G Prover time: 11.762075 ms
+Sumcheck on F+G Verifier time: 9.973254 ms
+round: 3---------------------------
+num_x: 2, num_y: 3, deg_x: 2, deg_y: 3
+Sumcheck on F Prover time: 2.2962874999999996 ms
+Sumcheck on F Verifier time: 1.0749166 ms
+Sumcheck on G Prover time: 15.386920799999999 ms
+Sumcheck on G Verifier time: 9.600904100000001 ms
+Sumcheck on F+G Prover time: 17.683208299999997 ms
+Sumcheck on F+G Verifier time: 10.675820700000001 ms
+round: 4---------------------------
+num_x: 2, num_y: 4, deg_x: 2, deg_y: 3
+Sumcheck on F Prover time: 4.4698291999999995 ms
+Sumcheck on F Verifier time: 1.1940334 ms
+Sumcheck on G Prover time: 21.7992417 ms
+Sumcheck on G Verifier time: 10.177804300000002 ms
+Sumcheck on F+G Prover time: 26.2690709 ms
+Sumcheck on F+G Verifier time: 11.371837700000002 ms
+round: 5---------------------------
+num_x: 2, num_y: 5, deg_x: 2, deg_y: 3
+Sumcheck on F Prover time: 9.724987600000002 ms
+Sumcheck on F Verifier time: 1.4764959000000002 ms
+Sumcheck on G Prover time: 28.7232416 ms
+Sumcheck on G Verifier time: 14.8835126 ms
+Sumcheck on F+G Prover time: 38.4482292 ms
+Sumcheck on F+G Verifier time: 16.3600085 ms
+round: 6---------------------------
+num_x: 2, num_y: 6, deg_x: 2, deg_y: 3
+Sumcheck on F Prover time: 22.290037400000003 ms
+Sumcheck on F Verifier time: 1.5453166 ms
+Sumcheck on G Prover time: 36.073683300000006 ms
+Sumcheck on G Verifier time: 15.4266042 ms
+Sumcheck on F+G Prover time: 58.36372070000001 ms
+Sumcheck on F+G Verifier time: 16.9719208 ms
+round: 7---------------------------
+num_x: 2, num_y: 7, deg_x: 2, deg_y: 3
+Sumcheck on F Prover time: 61.90662490000001 ms
+Sumcheck on F Verifier time: 1.6362624000000001 ms
+Sumcheck on G Prover time: 42.728029 ms
+Sumcheck on G Verifier time: 16.138446000000002 ms
+Sumcheck on F+G Prover time: 104.63465390000002 ms
+Sumcheck on F+G Verifier time: 17.7747084 ms
+round: 8---------------------------
+num_x: 2, num_y: 8, deg_x: 2, deg_y: 3
+Sumcheck on F Prover time: 184.2485585 ms
+Sumcheck on F Verifier time: 1.7082916999999997 ms
+Sumcheck on G Prover time: 50.52580830000001 ms
+Sumcheck on G Verifier time: 16.903370900000002 ms
+Sumcheck on F+G Prover time: 234.7743668 ms
+Sumcheck on F+G Verifier time: 18.611662600000002 ms
+round: 9---------------------------
+num_x: 2, num_y: 9, deg_x: 2, deg_y: 3
+Sumcheck on F Prover time: 566.0222085 ms
+Sumcheck on F Verifier time: 2.084975 ms
+Sumcheck on G Prover time: 58.9625125 ms
+Sumcheck on G Verifier time: 20.434525 ms
+Sumcheck on F+G Prover time: 624.984721 ms
+Sumcheck on F+G Verifier time: 22.5195 ms
+round: 10---------------------------
+num_x: 2, num_y: 10, deg_x: 2, deg_y: 3
+Sumcheck on F Prover time: 1785.3396206999998 ms
+Sumcheck on F Verifier time: 2.1680376 ms
+Sumcheck on G Prover time: 69.76496239999999 ms
+Sumcheck on G Verifier time: 22.949033400000005 ms
+Sumcheck on F+G Prover time: 1855.1045831 ms
+Sumcheck on F+G Verifier time: 25.117071000000003 ms
+-------------experiment 2-3 -------------
+round: 1---------------------------
+num_x: 2, num_y: 1, deg_x: 4, deg_y: 5
+Sumcheck on F Prover time: 1.7511665 ms
+Sumcheck on F Verifier time: 1.1588205999999999 ms
+Sumcheck on G Prover time: 3.0942374 ms
+Sumcheck on G Verifier time: 12.0999333 ms
+Sumcheck on F+G Prover time: 4.8454039 ms
+Sumcheck on F+G Verifier time: 13.2587539 ms
+round: 2---------------------------
+num_x: 2, num_y: 2, deg_x: 4, deg_y: 5
+Sumcheck on F Prover time: 2.3874625000000003 ms
+Sumcheck on F Verifier time: 1.2916624999999997 ms
+Sumcheck on G Prover time: 15.665900000000002 ms
+Sumcheck on G Verifier time: 12.7546207 ms
+Sumcheck on F+G Prover time: 18.053362500000002 ms
+Sumcheck on F+G Verifier time: 14.0462832 ms
+round: 3---------------------------
+num_x: 2, num_y: 3, deg_x: 4, deg_y: 5
+Sumcheck on F Prover time: 3.1756040999999997 ms
+Sumcheck on F Verifier time: 1.4315626000000001 ms
+Sumcheck on G Prover time: 24.0765875 ms
+Sumcheck on G Verifier time: 13.691216799999998 ms
+Sumcheck on F+G Prover time: 27.2521916 ms
+Sumcheck on F+G Verifier time: 15.122779399999997 ms
+round: 4---------------------------
+num_x: 2, num_y: 4, deg_x: 4, deg_y: 5
+Sumcheck on F Prover time: 5.092545899999999 ms
+Sumcheck on F Verifier time: 1.5960332000000002 ms
+Sumcheck on G Prover time: 34.3016583 ms
+Sumcheck on G Verifier time: 14.2380126 ms
+Sumcheck on F+G Prover time: 39.3942042 ms
+Sumcheck on F+G Verifier time: 15.8340458 ms
+round: 5---------------------------
+num_x: 2, num_y: 5, deg_x: 4, deg_y: 5
+Sumcheck on F Prover time: 10.700608299999999 ms
+Sumcheck on F Verifier time: 1.9826628 ms
+Sumcheck on G Prover time: 50.1412375 ms
+Sumcheck on G Verifier time: 21.201495600000005 ms
+Sumcheck on F+G Prover time: 60.8418458 ms
+Sumcheck on F+G Verifier time: 23.184158400000005 ms
+round: 6---------------------------
+num_x: 2, num_y: 6, deg_x: 4, deg_y: 5
+Sumcheck on F Prover time: 23.5140793 ms
+Sumcheck on F Verifier time: 2.0483374999999997 ms
+Sumcheck on G Prover time: 55.33671240000001 ms
+Sumcheck on G Verifier time: 22.145991800000004 ms
+Sumcheck on F+G Prover time: 78.8507917 ms
+Sumcheck on F+G Verifier time: 24.194329300000003 ms
+round: 7---------------------------
+num_x: 2, num_y: 7, deg_x: 4, deg_y: 5
+Sumcheck on F Prover time: 63.0737041 ms
+Sumcheck on F Verifier time: 2.17285 ms
+Sumcheck on G Prover time: 68.0144 ms
+Sumcheck on G Verifier time: 23.423328999999995 ms
+Sumcheck on F+G Prover time: 131.0881041 ms
+Sumcheck on F+G Verifier time: 25.596178999999996 ms
+round: 8---------------------------
+num_x: 2, num_y: 8, deg_x: 4, deg_y: 5
+Sumcheck on F Prover time: 186.78269990000004 ms
+Sumcheck on F Verifier time: 2.4308707000000003 ms
+Sumcheck on G Prover time: 79.2501 ms
+Sumcheck on G Verifier time: 26.502641399999998 ms
+Sumcheck on F+G Prover time: 266.03279990000004 ms
+Sumcheck on F+G Verifier time: 28.933512099999998 ms
+round: 9---------------------------
+num_x: 2, num_y: 9, deg_x: 4, deg_y: 5
+Sumcheck on F Prover time: 569.0236667 ms
+Sumcheck on F Verifier time: 2.7856168 ms
+Sumcheck on G Prover time: 91.96387109999999 ms
+Sumcheck on G Verifier time: 31.867904099999997 ms
+Sumcheck on F+G Prover time: 660.9875378 ms
+Sumcheck on F+G Verifier time: 34.6535209 ms
+round: 10---------------------------
+num_x: 2, num_y: 10, deg_x: 4, deg_y: 5
+Sumcheck on F Prover time: 1780.2027331000002 ms
+Sumcheck on F Verifier time: 2.8951625000000005 ms
+Sumcheck on G Prover time: 109.8951791 ms
+Sumcheck on G Verifier time: 34.6863707 ms
+Sumcheck on F+G Prover time: 1890.0979122 ms
+Sumcheck on F+G Verifier time: 37.581533199999996 ms
